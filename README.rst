@@ -2,6 +2,8 @@
 Kernel Install in VM
 ====================
 
+    :Author: Christopher Kauffman
+
 Synopsis
 --------
 
