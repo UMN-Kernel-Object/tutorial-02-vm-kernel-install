@@ -34,7 +34,7 @@ Tutorial Steps
 
     # Copy Virtual Machine Image via kauffman's script; amounts to a
     # virt-clone with some files / options
-    >> ~kauffman/vm-share/clone-vm.sh
+    >> ~kauffman/vm-shares/clone-vm.sh
 
     # Log in to Guest VM and experiment
     # 
